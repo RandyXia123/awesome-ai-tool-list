@@ -29,6 +29,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [Replika](https://replika.com) - An AI companion focused on emotional support and conversation.
   - **Tags**: `Free` `Subscription` `AI` `Companion` `Mental Health`
   - **Pricing**: Free, Premium
+ 
+  - [PoE2 Skills Planner]((http://www.poe2skills-ai.com/)) - AI-powered Path of Exile 2 build planner.
+  - **Tags**: `Free` `Chatbot` `Gaming`
+  - **Pricing**: Free
+  - **Contact**: https://x.com/Randy_developer
 
 ## Image & Art
 
